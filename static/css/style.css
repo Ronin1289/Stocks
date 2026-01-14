@@ -1,0 +1,8 @@
+body{background:#f8f9fa}
+.card{box-shadow:0 1px 2px rgba(0,0,0,.05)}
+.table td, .table th{vertical-align:middle}
+
+@media (max-width:576px){
+  .form-inline .form-control{width:100%; margin-bottom:.5rem}
+  .form-inline button{width:100%}
+}
